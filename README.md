@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Kilian 👨🏼‍💻, a web developer currently based at the foot of the alps in Salzburg, Austria 🇦🇹. Currently I'm trying to help you choose sustainable mobility options 🚲 and solve geospatial problems 🗺.
+I'm Kilian 👨🏼‍💻, a web engineer based at the foot of the alps in Salzburg, Austria 🇦🇹. At work I'm trying to help you choose sustainable mobility options 🚲 and solve geospatial problems 🗺.
 
 Here I'm either squashing some bugs 🪲 or fiddling around with some open source ideas ✨.
 
